@@ -1,5 +1,5 @@
 provider "google" {
-  project = "fleet-garage-421904"
+  project = "my-new-project-422716"
   region  = "us-central1"
   zone    = "us-central1-a"
 }
